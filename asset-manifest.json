@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Parical2_Evaluacion/static/css/main.12115333.css",
+    "main.js": "/Parical2_Evaluacion/static/js/main.95ff492e.js",
+    "index.html": "/Parical2_Evaluacion/index.html",
+    "main.12115333.css.map": "/Parical2_Evaluacion/static/css/main.12115333.css.map",
+    "main.95ff492e.js.map": "/Parical2_Evaluacion/static/js/main.95ff492e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12115333.css",
+    "static/js/main.95ff492e.js"
+  ]
+}
