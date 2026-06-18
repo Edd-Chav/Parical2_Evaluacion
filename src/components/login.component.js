@@ -47,6 +47,10 @@ class Login extends Component {
   handleLogin(e) {
     e.preventDefault();
 
+    console.error("ESTE LOGIN NO VA A FUNCIONAR YA QUE UTILIZA UNA BASE DA DATOS MYSQL");
+    console.info("ALUMNO: Chavez Guerrero Eduardo PARCIAL 2");
+    console.log("Intentando login...");
+
     this.setState({
       message: "",
       loading: true
